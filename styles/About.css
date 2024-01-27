@@ -1,0 +1,39 @@
+.containerAbout {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 1rem;
+  margin: 2rem; /* Increased margin here */
+  box-shadow: 3px 2px 10px 1px black;
+  font-family: "Montserrat", sans-serif;
+}
+.title {
+  text-align: center;
+  font-size: 2rem;
+  text-shadow: 1px 2px 10px black;
+  margin: 10px;
+}
+
+.containerAboutText {
+  text-align: center;
+  font-size: 1rem;
+  text-shadow: 1px 2px 10px black;
+  margin: 10px;
+}
+
+.whoCan {
+  text-align: center;
+  font-size: 1rem;
+  text-shadow: 1px 2px 10px black;
+  margin: 10px;
+}
+
+.underlineAbout {
+  height: 2px;
+  margin-bottom: 20px;
+  box-shadow: 2px 3px 10px 2px #b8b9c0;
+  width: 100%;
+}
